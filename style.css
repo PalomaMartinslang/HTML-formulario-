@@ -24,3 +24,6 @@ form{
 .campoNome{
     display: flex;
 }
+h1{
+    margin 1em;
+}
